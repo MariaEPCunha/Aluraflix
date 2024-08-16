@@ -8,4 +8,17 @@ header {
     border-bottom: solid 1px;
     padding:20px;
     font-size: 32px;
+    color:darkslategray;
+}
+
+section{
+    background: darkslategray;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
 }
